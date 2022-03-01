@@ -1,0 +1,40 @@
+[
+  {
+    "name": "comet-comet-wftm",
+    "address": "0x06378DFab4d97ba1f67EbE68c94893e7fDDf9169",
+    "decimals": "1e18",
+    "chainId": 250,
+    "poolId": 0,
+    "lp0": {
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "oracle": "tokens",
+      "oracleId": "WFTM",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xbeBB20cD6364998b8cAfc3d6B86f1ca6363fF910",
+      "oracle": "tokens",
+      "oracleId": "COMET",
+      "decimals": "1e18"
+    }
+  },
+  {
+    "name": "comet-meteor-wftm",
+    "address": "0x6F5CA58FBd1B2f335d1B9489216490fBEDcAda7e",
+    "decimals": "1e18",
+    "chainId": 250,
+    "poolId": 1,
+    "lp0": {
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "oracle": "tokens",
+      "oracleId": "WFTM",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xBAFDCFC3787BF7833BE6Be8E2D9e822B610255C9",
+      "oracle": "tokens",
+      "oracleId": "METEOR",
+      "decimals": "1e18"
+    }
+  }
+]
